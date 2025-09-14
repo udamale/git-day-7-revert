@@ -1,0 +1,8 @@
+this is file cerated by ganesh 
+this is the stash command useing apply the command 
+shash command there are two type 
+
+git stash apply --> means copy and paste
+
+git stash pop   --> means move the file for the prives destintion
+
